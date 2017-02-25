@@ -10,6 +10,7 @@ namespace 虚幻账号
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("现在在主分支上");
         }
     }
 }
